@@ -1,5 +1,3 @@
-from xml.dom.minicompat import defproperty
-
 
 def merge_sort(l):
     if len(l) <= 1:
